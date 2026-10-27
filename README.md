@@ -92,7 +92,7 @@ Eco-tourism development,
 Data-driven environmental policy making
 
 
-🧠 Learnings->
+ Learnings->
 Handling large, multi-source datasets,
 Performing structured EDA for real-world problems,
 Building interactive dashboards for stakeholders,
